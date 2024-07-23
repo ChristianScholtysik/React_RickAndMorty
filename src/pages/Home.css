@@ -12,3 +12,9 @@
   background-clip: text;
   color: transparent;
 }
+
+.hero-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
